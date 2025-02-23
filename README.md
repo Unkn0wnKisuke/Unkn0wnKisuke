@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 🧑‍💻 Fullstack Dev
+
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=Unkn0wnKisuke &card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" /></a>
+
 <!--
 **Unkn0wnKisuke/Unkn0wnKisuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=Unkn0wnKisuke &card_width=440&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=default#gh-light-mode-only" alt="github-stats" /></a>
+
