@@ -1,5 +1,4 @@
-## Hi there 👋 
-## 🧑‍💻 Fullstack Dev
+## Hi there 👋 I'm a 🧑‍💻 **Fullstack Dev**
 
 
 
