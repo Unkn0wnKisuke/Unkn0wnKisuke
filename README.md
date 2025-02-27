@@ -3,7 +3,7 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=Unkn0wnKisuke&card_width=480&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="github-stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=210 src="https://github-readme-stats.vercel.app/api?username=Unkn0wnKisuke&card_width=480&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=synthwave&border_color=30363d#gh-dark-mode-only" alt="github-stats" /></a>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unkn0wnKisuke&size_weight=0.3&count_weight=0.3&card_width=110&langs_count=100&layout=compact&theme=github_dark&border_color=30363d#gh-dark-mode-only" alt="top-langs" /></a>
