@@ -6,13 +6,9 @@
 
 
 
+
+<!-- Private View -->
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=190 src="https://github-readme-stats.vercel.app/api?username=Unkn0wnKisuke&card_width=330&custom_title=GitHub%20Stats&show_icons=true&show=prs_merged&theme=radical&border_color=30363d#gh-dark-mode-only" alt="github-stats" /></a>
-
-
-<!-- Public View -->
-
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only"><img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Unkn0wnKisuke&size_weight=0.3&count_weight=0.3&card_width=110&langs_count=100&layout=compact&theme=radical&border_color=30363d#gh-dark-mode-only" alt="top-langs" /></a>
 
 
