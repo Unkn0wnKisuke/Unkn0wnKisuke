@@ -10,7 +10,7 @@
 ###
 
 <br clear="both">
-I've used the following to code
+I code with 👇
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
