@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+## Hi there 👋 I'm a 🧑‍💻 **Fullstack Dev**
 
 ###
 
@@ -10,7 +10,7 @@
 ###
 
 <br clear="both">
-### I've used the following to code
+I've used the following to code
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
