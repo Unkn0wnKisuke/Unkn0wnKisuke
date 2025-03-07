@@ -8,7 +8,6 @@
 </div>
 
 /---- Testing 1-3
-http://sck4s8ok0go0swg4ssksgkg8.18.213.50.151.sslip.io
 
 <div align="center">
   <img src="http://sck4s8ok0go0swg4ssksgkg8.18.213.50.151.sslip.io/api?username=Unkn0wnKisuke&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
