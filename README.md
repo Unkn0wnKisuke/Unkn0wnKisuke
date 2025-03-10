@@ -7,6 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Unkn0wnKisuke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+<div>
+![](https://nirzak-streak-stats.vercel.app/?user=Unkn0wnKisuke&theme=radical&hide_border=false)<br/>
+</div>
 
 
 # 💻 Tech Stack:
@@ -19,7 +22,7 @@
 
 ###
 
-![](https://nirzak-streak-stats.vercel.app/?user=Unkn0wnKisuke&theme=radical&hide_border=false)<br/>
+
 
 ##
 ### ✍️ Random Dev Quote
