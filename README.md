@@ -22,7 +22,7 @@
 
 <div align="center">   
   
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Unkn0wnKisuke&theme=radical&hide_border=true&border_radius=&card_width=764)](https://git.io/streak-stats)
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Unkn0wnKisuke&theme=radical&hide_border=true&border_radius=&card_width=768)](https://git.io/streak-stats)
   
   </div>
 
