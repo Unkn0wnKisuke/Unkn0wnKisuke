@@ -18,18 +18,13 @@
   <img src="https://github-readme-stats-git-master-kisukes-projects-0836b72c.vercel.app/api/top-langs?username=Unkn0wnKisuke&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
+
+
 <div align="center">   
-
-
-
-
-
-
-
-
-
   
 ![](https://nirzak-streak-stats.vercel.app/?user=Unkn0wnKisuke&theme=radical&hide_border=false)<br/>
+
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Unkn0wnKisuke&theme=radical&hide_border=true&border_radius=&card_width=764)](https://git.io/streak-stats)
   
   </div>
 
