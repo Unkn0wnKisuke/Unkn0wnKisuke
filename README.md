@@ -11,8 +11,8 @@
 
 <!-- My Vercel Instance -->
 <div align="center">
-  <img src="https://github-readme-stats-kisukes-projects-0836b72c.vercel.app/api?username=Unkn0wnKisuke&count_private=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="155" alt="stats graph"  />
-<img src="https://github-readme-stats-kisukes-projects-0836b72c.vercel.app/api/top-langs?username=Unkn0wnKisuke&count_private=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="155" alt="languages graph" />
+  <img src="https://github-readme-stats-kisukes-projects-0836b72c.vercel.app/api?username=Unkn0wnKisuke&count_private=true&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="185" alt="stats graph"  />
+<img src="https://github-readme-stats-kisukes-projects-0836b72c.vercel.app/api/top-langs?username=Unkn0wnKisuke&count_private=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=radical&hide_border=true" height="185" alt="languages graph" />
 </div>
 
 <div align="center">   
